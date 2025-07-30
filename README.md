@@ -4,7 +4,6 @@ This project is a real-time Rubik’s Cube solver that scans cube faces using a 
 
 <img width="1282" height="749" alt="Image" src="https://github.com/user-attachments/assets/b5975628-3be3-4c81-b826-3f12438ade1c" />
 
-![Function Web Application](<img width="1282" height="749" alt="Image" src="https://github.com/user-attachments/assets/4e1c136e-a82b-4f92-b011-ac8f9b229a22" />)
 ---
 
 ## 🚀 Features
@@ -14,7 +13,6 @@ This project is a real-time Rubik’s Cube solver that scans cube faces using a 
 - 🧠 **Solving Algorithm**: Computes efficient cube solutions using the Kociemba algorithm (~20 steps max).
 - 🧩 **GUI Interface**: Built with Tkinter for visual scanning, face updates, and animated solving instructions.
 - 🔄 **Reset & Replay**: Allows full scan-reset-solve cycles via intuitive buttons.
-- 
 <img width="1146" height="369" alt="Image" src="https://github.com/user-attachments/assets/68ad9ebe-6a60-41f5-8891-683f9f206f76" />
 
 ---
