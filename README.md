@@ -38,32 +38,8 @@ rubiks_cube_solver/
 ├── model.sav              # Pre-trained logistic regression model
 ├── *.xlsx                 # RGB datasets for each cube face (training data)
 ├── README.md              # Project documentation
----
 
-## 🛠️ Installation & Usage
-  1. Clone the Repository
-  bash
-  Copy
-  Edit
-  git clone https://github.com/your-username/rubiks_cube_solver.git
-  cd rubiks_cube_solver
-  2. Install Dependencies
-  bash
-  Copy
-  Edit
-  pip install opencv-python scikit-learn pandas numpy Pillow kociemba
-  3. Run the Application
-  bash
-  Copy
-  Edit
-  python main.py
-  4. (Optional) Retrain the Model
-  If you’ve updated or added color data, retrain the color classifier:
-  
-  bash
-  Copy
-  Edit
-  python color_train.py
+---
 
 ## 💡 How It Works
 
