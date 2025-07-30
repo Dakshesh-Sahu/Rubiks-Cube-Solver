@@ -1,6 +1,8 @@
 # 🧊 Rubik's Cube Solver
 
-This project is a real-time Rubik’s Cube solver that scans cube faces using a webcam, classifies colors with a trained ML model, and solves the cube using the Kociemba algorithm—all via an interactive GUI. It simplifies the solving process, typically completing the cube in ~20 optimal moves.
+Rubik’s Cube is one of the most complex yet fascinating puzzles, often challenging even the most analytical minds. This project simplifies the cube-solving process by combining computer vision and artificial intelligence into an intuitive real-time application. The software scans each face of a real Rubik’s Cube using a webcam, detects and classifies the colors using a trained machine learning model, and solves the cube using the highly efficient Kociemba two-phase algorithm, which provides a solution in approximately 20 moves.
+
+🔍 A real-time Rubik’s Cube solver that uses computer vision to scan cube faces, classify colors via a trained ML model, and solve the cube using the Kociemba algorithm – all through a step-by-step interactive GUI interface.
 
 <img width="1282" height="749" alt="Image" src="https://github.com/user-attachments/assets/b5975628-3be3-4c81-b826-3f12438ade1c" />
 
